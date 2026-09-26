@@ -52,4 +52,4 @@ job roles, and years of service.
 
 ## 📷 Dashboard Preview
 
-![HR Analytics Dashboard](HR-Dashboard.png)
+![HR Analytics Dashboard](HR Dashboard.png)
